@@ -27,3 +27,6 @@
   * Hoàn thành [Khóa học Software Engineering](https://github.com/truonganhhoang/INT2208-4-2018/tree/master/NguyenAnhTuan/BT-SoftEng) bao gồm: Bài giảng, Question và Quiz.
 
 4. Chấm điểm chéo:
+  * Người chấm: Hà Công Trung
+  * Điểm:8
+  * Nhận xét:Bạn tham gia đầy đủ các bài tập thầy giao.Phần đóng góp cho bài tiny card không có  chi tiết 
